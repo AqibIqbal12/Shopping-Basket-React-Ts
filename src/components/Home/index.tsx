@@ -95,7 +95,7 @@ const Index = () => {
                     <img src="/images/home/image4.png" alt=""/>
                 </div>
                 <div className={rightSide}>
-                    <p><q>Whoever said that money can’t buy happiness simply didn’t know where to go shopping</q></p>
+                    <p><q>Whoeverrrr said that money can’t buy happiness simply didn’t know where to go shopping</q></p>
                     <button onClick={() => navigate("/shop")}>Shop now</button>
                 </div>
             </section>   
